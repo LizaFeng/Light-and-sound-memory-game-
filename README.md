@@ -49,16 +49,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+    One of the biggest challenges I had encountered while creating this submission was time because I took on a handful of coding classes and I would struggle to balance all the projects. For the time being, my plan is to do the basics of the website first so that I do not have to worry about the deadline. Then I would be able to explore more of web-development when the time sensitive things are in the way. I was also struggling with the colors on the buttons not displaying and I couldn't figure out why because the website would display and not really tell you if something went wrong. This was corrected by a classmate who pointed out that I had a space between some characters which caused the button to be not referenced correctly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I wonder what other games can I put on the website? What are some other ways I can make the website more interactive?
+I wonder what other games can I put on the website? What are some other ways I can make the website more interactive? How can I make a login system so that users can come back to their accounts? How can I make a game where there is a character on screen that can jump and interact with things around them? Could I make a game that is interactive and encourages players to donate money to fundraisers (if the website leaves an impression or impact then people might feel like supporting the cause that the website was made for). What other ways can web development be made more interactive other than a game? What are the copyright laws for website? How do you design an aesthetic website? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I think that if I had a few more hours to work on the project, I would add difficulty levels so that the user can choose the amount of buttons as well as how many tries they have until it is 
-game over. If I had a few weeks more to learn, I would have a point system where they can save their progress and then when they reach a certain level, they could compete for a position on the leaderboard.
-The leaderboard would have the best time for each amount of buttons. I would like to change the look of the website so that it displays beginner, average, or expert mode and when the user clicks on one,
-it would bring them to a screen with a certain amount of buttons.
+I think that if I had a few more hours to work on the project, I would add difficulty levels so that the user can choose the amount of buttons as well as how many tries they have until it is game over. If I had a few weeks more to learn, I would have a point system where they can save their progress and then when they reach a certain level, they could compete for a position on the leaderboard.The leaderboard would have the best time for each amount of buttons. I would like to change the look of the website so that it displays beginner, average, or expert mode and when the user clicks on one,
+it would bring them to a screen with a certain amount of buttons. There could be points and the user can use it to unlock other websites or games that I created. Those other websites would only be unlocked if you spent points on the first game I created (with the help of codepath's guide), it would be like a fun puzzle game in a way. It would also encourage kids to play this more often and train their memory because they want to unlock another game.
 
 
 
@@ -69,7 +67,7 @@ it would bring them to a screen with a certain amount of buttons.
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Liza Feng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
