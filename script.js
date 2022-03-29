@@ -9,6 +9,7 @@ var gamePlaying = false; //keep track of whether game is currently active. Remai
 var tonePlaying = false;
 var volume = 0.5; //Must be between 0.0 and 1.0
 var guessCounter = 0;
+var tries_left = 3;
 
 function startGame() {
     //initialize game variables
@@ -82,9 +83,16 @@ function guess(btn) {
             guessCounter++;
         }
     } else {
-        //Guess was incorrect
+        //If player has tries left
+        if (tries_left > 0) {
+            tries_left -= 1;
+            alert("Player has " + tries_left + " left. Sequence will be repeated")
+            playClueSequence();
+        }
+        //Out of tries
         //GAME OVER: LOSE!
-        loseGame();
+        if (tries_left == 0)
+            loseGame();
     }
 
     // add game logic here
@@ -102,10 +110,12 @@ function winGame() {
 
 // Sound Synthesis Functions
 const freqMap = {
-    1: 261.6,
-    2: 329.6,
-    3: 392,
-    4: 466.2,
+    1: 300,
+    2: 340,
+    3: 400,
+    4: 425,
+    5: 450,
+    6: 500
 };
 function playTone(btn, len) {
     o.frequency.value = freqMap[btn];
