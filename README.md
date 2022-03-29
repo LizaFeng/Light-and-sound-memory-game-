@@ -39,7 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+1. Required features only
 <img src='LightSoundMemoryGame.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+2.Different look & sound, 2 more buttons, and 3 strikes before game over
+2a. Using all 3 strikes and losing
+<img src='LightSoundMemoryGame2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+2b. Winning the game
+<img src='LightSoundMemoryGame3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
