@@ -54,7 +54,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://www.somacon.com/p142.php
+https://www.w3schools.com/css/css_colors_hex.asp
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
     One of the biggest challenges I had encountered while creating this submission was time because I took on a handful of coding classes and I would struggle to balance all the projects. For the time being, my plan is to do the basics of the website first so that I do not have to worry about the deadline. Then I would be able to explore more of web-development when the time sensitive things are in the way. I was also struggling with the colors on the buttons not displaying and I couldn't figure out why because the website would display and not really tell you if something went wrong. This was corrected by a classmate who pointed out that I had a space between some characters which caused the button to be not referenced correctly.
