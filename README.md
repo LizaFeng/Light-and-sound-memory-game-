@@ -42,7 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1. Required features only
 <img src='LightSoundMemoryGame.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-2.Different look & sound, 2 more buttons, and 3 strikes before game over
+2.Different look & sound, 2 more buttons, and 3 strikes before game over: 
 2a. Using all 3 strikes and losing
 <img src='LightSoundMemoryGame2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 2b. Winning the game
