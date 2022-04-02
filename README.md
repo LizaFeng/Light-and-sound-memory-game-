@@ -72,7 +72,7 @@ it would bring them to a screen with a certain amount of buttons. There could be
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/104b32a7d5e64d51a811ba74a2dffd9b)
 
 
 ## License
